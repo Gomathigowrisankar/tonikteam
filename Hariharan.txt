@@ -3,4 +3,8 @@ This is typed by Hariharan
 =======
 This is typed by Hariharan
 This is second line added by master
+<<<<<<< HEAD
 >>>>>>> 1bfbbe917cf19e3cb5fbe4dd1de7d23365a49a73
+=======
+Third line added
+>>>>>>> fc83ddb79b0dcb1fcf68bf100a018c33d770c3e0
